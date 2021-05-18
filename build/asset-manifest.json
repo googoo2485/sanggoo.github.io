@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sanggoo.github.io/static/css/main.5343f8f1.chunk.css",
+    "main.js": "/sanggoo.github.io/static/js/main.dd421a7e.chunk.js",
+    "main.js.map": "/sanggoo.github.io/static/js/main.dd421a7e.chunk.js.map",
+    "runtime-main.js": "/sanggoo.github.io/static/js/runtime-main.a5fb5027.js",
+    "runtime-main.js.map": "/sanggoo.github.io/static/js/runtime-main.a5fb5027.js.map",
+    "static/js/2.f18b1e98.chunk.js": "/sanggoo.github.io/static/js/2.f18b1e98.chunk.js",
+    "static/js/2.f18b1e98.chunk.js.map": "/sanggoo.github.io/static/js/2.f18b1e98.chunk.js.map",
+    "static/js/3.4c24677a.chunk.js": "/sanggoo.github.io/static/js/3.4c24677a.chunk.js",
+    "static/js/3.4c24677a.chunk.js.map": "/sanggoo.github.io/static/js/3.4c24677a.chunk.js.map",
+    "index.html": "/sanggoo.github.io/index.html",
+    "static/css/main.5343f8f1.chunk.css.map": "/sanggoo.github.io/static/css/main.5343f8f1.chunk.css.map",
+    "static/js/2.f18b1e98.chunk.js.LICENSE.txt": "/sanggoo.github.io/static/js/2.f18b1e98.chunk.js.LICENSE.txt",
+    "static/media/8ver.9786c133.png": "/sanggoo.github.io/static/media/8ver.9786c133.png",
+    "static/media/recipe.5e22bd9b.png": "/sanggoo.github.io/static/media/recipe.5e22bd9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5fb5027.js",
+    "static/js/2.f18b1e98.chunk.js",
+    "static/css/main.5343f8f1.chunk.css",
+    "static/js/main.dd421a7e.chunk.js"
+  ]
+}
